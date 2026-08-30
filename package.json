@@ -1,0 +1,28 @@
+{
+  "name": "503a4",
+  "version": "1.0.0",
+  "description": "for init test",
+  "homepage": "https://github.com/pongChinnawut/503A4#readme",
+  "bugs": {
+    "url": "https://github.com/pongChinnawut/503A4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pongChinnawut/503A4.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
